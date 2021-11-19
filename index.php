@@ -135,7 +135,7 @@ input {
     password = document.getElementById('password');
     if(username.value == "adil" && password.value == "1234"){
       console.log("Correct username and password");
-      window.location.replace("portfolio.html");
+      window.location.replace("index1.php");
     }
   }
         </script>
